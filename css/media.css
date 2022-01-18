@@ -1,0 +1,150 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*common css start*/
+.common{
+	padding: 50px 0;
+}
+/*common css end*/
+
+/*header css start*/
+/*header css end*/
+
+/*banner css start*/
+.first{
+	height: 250px;
+}
+.second{
+	height: 250px;
+	
+}
+.third{
+	height: 250px;
+}
+/*banner css end*/
+
+/*choose start*/
+.choose button{
+	margin: 10px;
+}
+/*choose end*/
+
+/*footer css start*/
+/*footer css end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*common css start*/
+.common{
+	padding: 60px 0;
+}
+/*common css end*/
+
+/*header css start*/
+/*header css end*/
+
+/*banner css start*/
+.first{
+	height: 250px;
+}
+.second{
+	height: 250px;
+	
+}
+.third{
+	height: 250px;
+}
+/*banner css end*/
+
+/*choose start*/
+/*choose end*/
+
+/*footer css start*/
+/*footer css end*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*common css start*/
+.common{
+	padding: 70px 0;
+}
+/*common css end*/
+
+/*header css start*/
+/*header css end*/
+
+/*banner css start*/
+.first{
+	height: 300px;
+}
+.second{
+	height: 300px;
+	
+}
+.third{
+	height: 300px;
+}
+/*banner css end*/
+
+/*choose start*/
+/*choose end*/
+
+/*footer css start*/
+/*footer css end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*common css start*/
+/*common css end*/
+
+/*header css start*/
+/*header css end*/
+
+/*banner css start*/
+/*banner css end*/
+
+/*choose start*/
+/*choose end*/
+
+/*footer css start*/
+/*footer css end*/
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/*common css start*/
+/*common css end*/
+
+/*header css start*/
+/*header css end*/
+
+/*banner css start*/
+/*banner css end*/
+
+/*choose start*/
+/*choose end*/
+
+/*footer css start*/
+/*footer css end	*/
+}
+
+/*Extra Extra large devices (Extra large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+/*common css start*/
+/*common css end*/
+
+/*header css start*/
+/*header css end*/
+
+/*banner css start*/
+/*banner css end*/
+
+/*choose start*/
+/*choose end*/
+
+/*footer css start*/
+/*footer css end*/
+
+}
